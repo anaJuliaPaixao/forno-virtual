@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Forno_OttoHx.Servicos</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Forno-OttoHx.Dominio\Forno-OttoHx.Dominio.csproj" />
+    <ProjectReference Include="..\Forno-OttoHx.Infra\Forno-OttoHx.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\Forno-OttoHx.Infra.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\Forno-OttoHx.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\Forno-OttoHx.Infra.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\Forno-OttoHx.Infra.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\Forno-OttoHx.Infra.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\bin\Debug\net6.0\Forno-OttoHx.Infra.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\bin\Debug\net6.0\Forno-OttoHx.Infra.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\bin\Debug\net6.0\Forno-OttoHx.Infra.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\bin\Debug\net6.0\Forno-OttoHx.Infra.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\bin\Debug\net6.0\Forno-OttoHx.Dominio.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\bin\Debug\net6.0\Forno-OttoHx.Dominio.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\Forno-OttoHx.Infra.csproj.CopyComplete
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\Forno-OttoHx.Infra.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\refint\Forno-OttoHx.Infra.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\Forno-OttoHx.Infra.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\Forno-OttoHx.Infra.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Infra\obj\Debug\net6.0\ref\Forno-OttoHx.Infra.dll

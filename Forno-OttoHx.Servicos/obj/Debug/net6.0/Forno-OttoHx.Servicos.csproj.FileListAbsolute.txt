@@ -1,0 +1,17 @@
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\bin\Debug\net6.0\Forno-OttoHx.Servicos.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\bin\Debug\net6.0\Forno-OttoHx.Servicos.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\bin\Debug\net6.0\Forno-OttoHx.Servicos.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\Forno-OttoHx.Servicos.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\Forno-OttoHx.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\Forno-OttoHx.Servicos.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\Forno-OttoHx.Servicos.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\Forno-OttoHx.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\Forno-OttoHx.Servicos.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\refint\Forno-OttoHx.Servicos.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\Forno-OttoHx.Servicos.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\ref\Forno-OttoHx.Servicos.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\bin\Debug\net6.0\Forno-OttoHx.Dominio.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\bin\Debug\net6.0\Forno-OttoHx.Infra.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\bin\Debug\net6.0\Forno-OttoHx.Dominio.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\bin\Debug\net6.0\Forno-OttoHx.Infra.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Servicos\obj\Debug\net6.0\Forno-OttoHx.Servicos.csproj.CopyComplete
