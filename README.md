@@ -34,6 +34,17 @@ Update-Database
 - **PUT** api/forno/Pausar-Forno : Pausa o Forno
 - **POST** api/forno/Cadastrar-Alimento : Cadastra Alimento para Padrão do forno
 
+## SOLID:
+Na camada service, o SOLID foi aplicado para garantir que cada serviço tenha uma única responsabilidade e que o código seja fácil de estender e modificar. Além disso, a interface dos serviços deve ser segregada para que os clientes possam depender apenas dos métodos que precisam e as dependências sejam injetadas por meio de abstrações em vez de implementações concretas, permitindo que os serviços sejam facilmente testados e modificados.
+
+## Injeção de Dependência:
+Injeção de Dependência é um padrão que permite que as classes dependam de outras classes sem saber exatamente quais são essas classes. Em vez de criar as instâncias das classes diretamente, a Injeção de Dependência é utilizada para injetar essas dependências por meio de interfaces ou construtores.
+
+## Domain-Driven Design (DDD):
+No projeto foi colocado foco no domínio do problema em vez da tecnologia. O DDD é baseado em um conjunto de conceitos, padrões e práticas que ajudam a modelar o domínio de forma mais eficaz, garantindo que o software seja mais alinhado com as necessidades do negócio.
+
+## Clean Code:
+São os princípios que visam tornar o código-fonte mais legível, fácil de entender e de manter. O objetivo é criar um código que seja limpo, conciso, expressivo e que permita que novas funcionalidades possam ser adicionadas facilmente sem quebrar o código existente. Podemos usar de exemplo o padrão utilizado para Clases, Nomes de Variáveis e Cada camada do projeto.
 
 - Banco de dados
 Foi utilizado o Oracle com os frameworks:
