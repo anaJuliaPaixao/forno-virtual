@@ -28,8 +28,12 @@ Update-Database
   <https://localhost:7224/swagger>
 
 ## Principais End-Points:
-- **POST** api/forno : Cadastrar times na API
-- **GET** api/campeonato : Cadastrar campeonato na API
+- **POST** api/forno : Iniciar um forno ( Caso executar duas vezes Inicio Rapido)
+- **GET** api/forno : Lista os fornos
+- **PUT** api/forno : Cancela o Forno
+- **PUT** api/forno/Pausar-Forno : Pausa o Forno
+- **POST** api/forno/Cadastrar-Alimento : Cadastra Alimento para Padrão do forno
+
 
 - Banco de dados
 Foi utilizado o Oracle com os frameworks:
