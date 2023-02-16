@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQpnS5gJDsd5nFH/79vMVgJCobkAaOIoIeovnSbL4vi3xFLevuo1I3WrmTiUC8MTJWxmhEVvC9YU2FOktm+NsQ==",
+  "dgSpecHash": "rSnXjtdS0tTH/V1jSH9WpzX01XFJFDkjoIv0FQ+DIOrOHpvJwIWo219cvBUBjPR71naKQ/PMXQSHTCeVm09ecw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\Forno-OttoHx.Servicos\\Forno-OttoHx.Servicos.csproj",
+  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\forno-virtual\\Forno-OttoHx.Servicos\\Forno-OttoHx.Servicos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",

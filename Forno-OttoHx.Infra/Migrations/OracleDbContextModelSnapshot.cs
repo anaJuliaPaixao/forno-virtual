@@ -30,6 +30,9 @@ namespace Forno_OttoHx.Infra.Migrations
 
                     OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<bool>("Ativo")
+                        .HasColumnType("NUMBER(1)");
+
                     b.Property<DateTime>("HoraInicio")
                         .HasColumnType("TIMESTAMP(7)");
 
@@ -39,9 +42,39 @@ namespace Forno_OttoHx.Infra.Migrations
                     b.Property<int>("SegundosAquecimento")
                         .HasColumnType("NUMBER(10)");
 
+                    b.Property<int>("TipoAquecimento")
+                        .HasColumnType("NUMBER(10)");
+
                     b.HasKey("Id");
 
                     b.ToTable("Forno");
+                });
+
+            modelBuilder.Entity("Forno_OttoHx.Dominio.Modelos.FornosCustomizados", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("NUMBER(10)");
+
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Abreviacao")
+                        .IsRequired()
+                        .HasColumnType("NVARCHAR2(2000)");
+
+                    b.Property<string>("NomeAlimento")
+                        .IsRequired()
+                        .HasColumnType("NVARCHAR2(2000)");
+
+                    b.Property<int>("Potencia")
+                        .HasColumnType("NUMBER(10)");
+
+                    b.Property<int>("SegundosAquecimento")
+                        .HasColumnType("NUMBER(10)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("FornosCustomizados");
                 });
 #pragma warning restore 612, 618
         }

@@ -14,6 +14,8 @@ namespace Forno_OttoHx.Infra.Data
     public class OracleDbContext : DbContext
     {
         public DbSet<Forno> Forno { get; set; }
+        public DbSet<FornosCustomizados> FornosCustomizados { get; set; }
+
 
         public OracleDbContext(DbContextOptions<OracleDbContext> options) : base(options)
         {

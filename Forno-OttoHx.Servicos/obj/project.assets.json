@@ -1436,19 +1436,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paulo\\.nuget\\packages\\": {}
+    "C:\\Users\\paulo\\.nuget\\packages\\": {},
+    "D:\\Sdks\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\Forno-OttoHx.Servicos\\Forno-OttoHx.Servicos.csproj",
+      "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\forno-virtual\\Forno-OttoHx.Servicos\\Forno-OttoHx.Servicos.csproj",
       "projectName": "Forno-OttoHx.Servicos",
-      "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\Forno-OttoHx.Servicos\\Forno-OttoHx.Servicos.csproj",
+      "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\forno-virtual\\Forno-OttoHx.Servicos\\Forno-OttoHx.Servicos.csproj",
       "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\Forno-OttoHx.Servicos\\obj\\",
+      "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\forno-virtual\\Forno-OttoHx.Servicos\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Sdks\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1462,11 +1467,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\Forno-OttoHx.Dominio\\Forno-OttoHx.Dominio.csproj": {
-              "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\Forno-OttoHx.Dominio\\Forno-OttoHx.Dominio.csproj"
+            "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\forno-virtual\\Forno-OttoHx.Dominio\\Forno-OttoHx.Dominio.csproj": {
+              "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\forno-virtual\\Forno-OttoHx.Dominio\\Forno-OttoHx.Dominio.csproj"
             },
-            "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\Forno-OttoHx.Infra\\Forno-OttoHx.Infra.csproj": {
-              "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\Forno-OttoHx.Infra\\Forno-OttoHx.Infra.csproj"
+            "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\forno-virtual\\Forno-OttoHx.Infra\\Forno-OttoHx.Infra.csproj": {
+              "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\OttohTeste\\forno-virtual\\Forno-OttoHx.Infra\\Forno-OttoHx.Infra.csproj"
             }
           }
         }

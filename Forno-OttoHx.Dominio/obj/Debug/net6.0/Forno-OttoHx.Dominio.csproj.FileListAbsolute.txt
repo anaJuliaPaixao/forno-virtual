@@ -10,3 +10,15 @@ C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Dominio\obj\De
 C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Dominio\obj\Debug\net6.0\refint\Forno-OttoHx.Dominio.dll
 C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Dominio\obj\Debug\net6.0\Forno-OttoHx.Dominio.pdb
 C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\Forno-OttoHx.Dominio\obj\Debug\net6.0\ref\Forno-OttoHx.Dominio.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\bin\Debug\net6.0\Forno-OttoHx.Dominio.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\bin\Debug\net6.0\Forno-OttoHx.Dominio.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\bin\Debug\net6.0\Forno-OttoHx.Dominio.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\obj\Debug\net6.0\Forno-OttoHx.Dominio.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\obj\Debug\net6.0\Forno-OttoHx.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\obj\Debug\net6.0\Forno-OttoHx.Dominio.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\obj\Debug\net6.0\Forno-OttoHx.Dominio.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\obj\Debug\net6.0\Forno-OttoHx.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\obj\Debug\net6.0\Forno-OttoHx.Dominio.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\obj\Debug\net6.0\refint\Forno-OttoHx.Dominio.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\obj\Debug\net6.0\Forno-OttoHx.Dominio.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\OttohTeste\forno-virtual\Forno-OttoHx.Dominio\obj\Debug\net6.0\ref\Forno-OttoHx.Dominio.dll

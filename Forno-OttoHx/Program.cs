@@ -1,4 +1,6 @@
+using Forno_OttoHx.Dominio.Modelos;
 using Forno_OttoHx.Infra.Data;
+using Forno_OttoHx.Infra.Migrations;
 using Forno_OttoHx.Infra.Repositorio;
 using Forno_OttoHx.Infra.Repositorio.Interfaces;
 using Forno_OttoHx.Servicos.Servicos;
@@ -18,6 +20,8 @@ builder.Services.AddDbContext<OracleDbContext>(options =>
 });
 
 builder.Services.AddScoped<IFornoRepositorio, FornoRepositorio>();
+builder.Services.AddScoped<IFornoCustomizadoRepositorio, FornoCustomizadoRepositorio>();
+
 builder.Services.AddScoped<IFornoServico, FornoServico>();
 
 builder.Services.AddControllers();
